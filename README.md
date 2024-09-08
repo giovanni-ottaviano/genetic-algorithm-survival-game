@@ -1,6 +1,8 @@
 # Genetic Algorith - Survival Game
 
-<img src="images/grid.png" width=40% height=40%>
+<p align="center">
+  <img src="images/grid.png" width=40% height=40%>
+</p>
 
 ## Overview
 The goal of this project is designing a *genetic algorithm* to develop survival instinct in a population of individuals.
